@@ -1,0 +1,378 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Mar 2024 16:12:09 at https://www.cvannantes.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cvannantes.org -O1 "C:\My Web Sites\https___www.cvannantes.org_11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:12:11	Warning: 	Note: due to https://www.cvannantes.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:17:07	Warning: 	File not parsed, looks like binary: https://www.cvannantes.org/wp-content/plugins/revslider/public/assets/css/openhand.cur
+16:17:08	Warning: 	File not parsed, looks like binary: https://www.cvannantes.org/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+16:17:13	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/sprite-slide-nav.png (from https://www.cvannantes.org/wp-content/plugins/cyclone-slider-pro/templates/galleria/style.css?ver=2.10.4)
+16:17:13	Warning: 	File not parsed, looks like binary: https://www.cvannantes.org/wp-content/themes/pinnacle_premium/assets/css/fonts/kt-icon.woff2?psizf1
+16:17:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6751
+16:17:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6751 to https://www.cvannantes.org/nos-activites/
+16:17:36	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3958
+16:17:36	Warning: 	File has moved from https://www.cvannantes.org/?p=3958 to https://www.cvannantes.org/regates-et-evenements/
+16:17:36	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6541
+16:17:36	Warning: 	File has moved from https://www.cvannantes.org/?p=6541 to https://www.cvannantes.org/resultats-des-regates/
+16:17:36	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6710
+16:17:36	Warning: 	File has moved from https://www.cvannantes.org/?p=6710 to https://www.cvannantes.org/04-calendrier/
+16:17:36	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6715
+16:17:36	Warning: 	File has moved from https://www.cvannantes.org/?p=6715 to https://www.cvannantes.org/042-calendrier-regate/
+16:17:37	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6937
+16:17:37	Warning: 	File has moved from https://www.cvannantes.org/?p=6937 to https://www.cvannantes.org/inscription-2022/
+16:17:38	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=17
+16:17:38	Warning: 	File has moved from https://www.cvannantes.org/?p=17 to https://www.cvannantes.org/le-club/
+16:17:38	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2011/12/ecole-de-voile-CVAN1.jpg (from https://www.cvannantes.org/le-club/)
+16:17:39	Warning: 	Moved Permanently for https://www.cvannantes.org/ecole-de-voile/
+16:17:39	Warning: 	File has moved from https://www.cvannantes.org/ecole-de-voile/ to https://www.cvannantes.org/activites/ecole-de-voile/
+16:17:39	Warning: 	Moved Permanently for https://www.cvannantes.org/activites/ecole/scolaires/
+16:17:39	Warning: 	File has moved from https://www.cvannantes.org/activites/ecole/scolaires/ to https://www.cvannantes.org/scolaires/
+16:17:44	Warning: 	Moved Permanently for https://www.cvannantes.org/activites/ecole-de-sport/ecole-de-sport-handi-voile/
+16:17:44	Warning: 	File has moved from https://www.cvannantes.org/activites/ecole-de-sport/ecole-de-sport-handi-voile/ to https://www.cvannantes.org/ecole-de-sport/ecole-de-sport-handi-voile/
+16:17:47	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3345
+16:17:47	Warning: 	File has moved from https://www.cvannantes.org/?p=3345 to https://www.cvannantes.org/presentation-du-cvan/
+16:17:47	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3349
+16:17:47	Warning: 	File has moved from https://www.cvannantes.org/?p=3349 to https://www.cvannantes.org/lequipe/
+16:17:47	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3347
+16:17:47	Warning: 	File has moved from https://www.cvannantes.org/?p=3347 to https://www.cvannantes.org/les-projets-de-club/
+16:17:47	Warning: 	Retry after error -4 (Incorrect length (291992 Bytes, 393299 expected)) at link www.cvannantes.org/wp-content/uploads/2021/05/Proces-verbal-AG-2021.pdf (from https://www.cvannantes.org/les-projets-de-club/)
+16:17:50	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3476
+16:17:50	Warning: 	File has moved from https://www.cvannantes.org/?p=3476 to https://www.cvannantes.org/spot-de-la-joneliere/
+16:17:50	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3394
+16:17:50	Warning: 	File has moved from https://www.cvannantes.org/?p=3394 to https://www.cvannantes.org/nos-partenaires/
+16:17:50	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3390
+16:17:50	Warning: 	File has moved from https://www.cvannantes.org/?p=3390 to https://www.cvannantes.org/devenir-partenaire/
+16:17:50	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=51
+16:17:50	Warning: 	File has moved from https://www.cvannantes.org/?p=51 to https://www.cvannantes.org/contact/
+16:18:09	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6734
+16:18:09	Warning: 	File has moved from https://www.cvannantes.org/?p=6734 to https://www.cvannantes.org/tarif/
+16:18:10	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6379
+16:18:10	Warning: 	File has moved from https://www.cvannantes.org/?p=6379 to https://www.cvannantes.org/equipement/
+16:18:10	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7960
+16:18:10	Warning: 	File has moved from https://www.cvannantes.org/?p=7960 to https://www.cvannantes.org/2023/10/17/regate-cvan-inter-serie-le-25-11-2023-la-joneliere/
+16:25:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7957
+16:25:18	Warning: 	File has moved from https://www.cvannantes.org/?p=7957 to https://www.cvannantes.org/2023/10/17/marche-sur-leau-octobre-rose-21-10-2023/
+16:25:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7952
+16:25:18	Warning: 	File has moved from https://www.cvannantes.org/?p=7952 to https://www.cvannantes.org/2023/10/17/6h-de-lerdre-cvan-a-la-chapelle-sur-erdre-11-11-2023/
+16:25:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7948
+16:25:18	Warning: 	File has moved from https://www.cvannantes.org/?p=7948 to https://www.cvannantes.org/2023/10/03/lactivite-nautique-en-plein-essor-au-cvan-club-de-proximite-bien-etre-sur-leau-assure/
+16:25:20	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6959
+16:25:20	Warning: 	File has moved from https://www.cvannantes.org/?p=6959 to https://www.cvannantes.org/meteo-2/
+16:25:26	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3721
+16:25:26	Warning: 	File has moved from https://www.cvannantes.org/?p=3721 to https://www.cvannantes.org/stand-up-paddle-sup/
+16:25:27	Warning: 	Note: due to www.cvannantes.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:26:40	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3740
+16:26:40	Warning: 	File has moved from https://www.cvannantes.org/?p=3740 to https://www.cvannantes.org/stage-voile-vacances/
+16:26:40	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=201
+16:26:40	Warning: 	File has moved from https://www.cvannantes.org/?p=201 to https://www.cvannantes.org/locations/
+16:26:41	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=312
+16:26:41	Warning: 	File has moved from https://www.cvannantes.org/?p=312 to https://www.cvannantes.org/navigation-libre/
+16:26:41	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3717
+16:26:41	Warning: 	File has moved from https://www.cvannantes.org/?p=3717 to https://www.cvannantes.org/handi-voile/
+16:26:41	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3744
+16:26:41	Warning: 	File has moved from https://www.cvannantes.org/?p=3744 to https://www.cvannantes.org/formation-moniteur-voile/
+16:26:55	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=504
+16:26:55	Warning: 	File has moved from https://www.cvannantes.org/?p=504 to https://www.cvannantes.org/la-competition/
+16:27:23	Warning: 	File not parsed, looks like binary: https://www.cvannantes.org/wp-content/plugins/wp-google-maps/fonts/fontawesome-webfont.woff2?v=4.7.0
+16:27:23	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/plugins/wp-google-maps/css/images/premium.png (from https://www.cvannantes.org/wp-content/plugins/wp-google-maps/css/styles/legacy.css?ver=9.0.32)
+16:27:23	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/plugins/wp-google-maps/css/images/WP-google-maps-logo-1-B-transparent.png (from https://www.cvannantes.org/wp-content/plugins/wp-google-maps/css/styles/legacy.css?ver=9.0.32)
+16:30:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7867
+16:30:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7867 to https://www.cvannantes.org/2023/06/19/finale-coupe-regionale-prefaille-10-et-11-06/
+16:35:36	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.cvannantes.org/2020/09/16/inscriptions-les-6-heures-de-lerdre-octobre-rose-samedi-17-octobre-2020/ (from https://www.cvannantes.org/2020/09/)
+16:35:36	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.cvannantes.org/2020/07/30/le-sport-sante-bien-etre-a-laffiche-au-cvan-paddle-en-douceur-a-partir-de-la-rentree/ (from https://www.cvannantes.org/2020/07/)
+16:35:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.cvannantes.org/wp-content/uploads/2017/07/c700x420.jpg (from https://www.cvannantes.org/2020/07/)
+16:38:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7397
+16:38:44	Warning: 	File has moved from https://www.cvannantes.org/?p=7397 to https://www.cvannantes.org/meteo-3/
+16:38:46	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4215
+16:38:46	Warning: 	File has moved from https://www.cvannantes.org/?p=4215 to https://www.cvannantes.org/paddle-sport-sante/
+16:38:47	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4236
+16:38:47	Warning: 	File has moved from https://www.cvannantes.org/?p=4236 to https://www.cvannantes.org/escales-de-lerdre/
+16:38:48	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7562
+16:38:48	Warning: 	File has moved from https://www.cvannantes.org/?p=7562 to https://www.cvannantes.org/2022/10/20/rassemblement-pratique-libre-la-marche-sur-leau-octobre-rose-samedi-22-10-22/
+16:38:49	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=167
+16:38:49	Warning: 	File has moved from https://www.cvannantes.org/?p=167 to https://www.cvannantes.org/activites/ecole-de-voile/
+16:38:49	Warning: 	Moved Permanently for https://www.cvannantes.org/stages/le-label-ecole-francaise-de-voile/
+16:38:49	Warning: 	File has moved from https://www.cvannantes.org/stages/le-label-ecole-francaise-de-voile/ to https://www.cvannantes.org/le-label-ecole-francaise-de-voile/
+16:38:57	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3725
+16:38:57	Warning: 	File has moved from https://www.cvannantes.org/?p=3725 to https://www.cvannantes.org/scolaires/
+16:38:57	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=41
+16:38:57	Warning: 	File has moved from https://www.cvannantes.org/?p=41 to https://www.cvannantes.org/ecole-de-sport/
+16:38:58	Warning: 	Moved Permanently for www.cvannantes.org/activites/ecole-de-sport/equipe-de-club/
+16:38:58	Warning: 	File has moved from www.cvannantes.org/activites/ecole-de-sport/equipe-de-club/ to https://www.cvannantes.org/equipe-de-club/
+16:38:59	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4332
+16:38:59	Warning: 	File has moved from https://www.cvannantes.org/?p=4332 to https://www.cvannantes.org/equipe-de-club/
+16:38:59	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=188
+16:38:59	Warning: 	File has moved from https://www.cvannantes.org/?p=188 to https://www.cvannantes.org/ecole-de-sport/ecole-de-sport-handi-voile/
+16:39:03	Error: 	"Not Found" (404) at link https://www.cvannantes.org/la-flotte/access-dinghy/ (from https://www.cvannantes.org/ecole-de-sport/ecole-de-sport-handi-voile/)
+16:39:03	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7859
+16:39:03	Warning: 	File has moved from https://www.cvannantes.org/?p=7859 to https://www.cvannantes.org/2023/06/11/debord-de-loire-2023-on-y-etait/
+16:39:03	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7835
+16:39:03	Warning: 	File has moved from https://www.cvannantes.org/?p=7835 to https://www.cvannantes.org/2023/06/06/championnat-de-ligue-ilca-467-pdl-sno-nantes-04-06-2023/
+16:39:03	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7768
+16:39:03	Warning: 	File has moved from https://www.cvannantes.org/?p=7768 to https://www.cvannantes.org/2023/05/04/regate-de-club-inter-serie-13-05-2023/
+16:39:04	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7724
+16:39:04	Warning: 	File has moved from https://www.cvannantes.org/?p=7724 to https://www.cvannantes.org/2023/04/07/regate-de-ligue-ilca-st-jean-de-monts-02-04-2023/
+16:39:04	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7704
+16:39:04	Warning: 	File has moved from https://www.cvannantes.org/?p=7704 to https://www.cvannantes.org/2023/03/21/printemps-2023-reprise-des-entrainements-hansa/
+16:39:04	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7658
+16:39:04	Warning: 	File has moved from https://www.cvannantes.org/?p=7658 to https://www.cvannantes.org/2023/01/22/stage-niveau-4-ff-voile_2023/
+16:39:04	Warning: 	Moved Permanently for https://www.cvannantes.org/author/loic/page/1/
+16:39:04	Warning: 	File has moved from https://www.cvannantes.org/author/loic/page/1/ to https://www.cvannantes.org/author/loic/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7647
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7647 to https://www.cvannantes.org/2023/01/19/sortie-char-a-voile-a-st-jean-de-monts-le-samedi-25-fevrier-2023/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7641
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7641 to https://www.cvannantes.org/2023/01/17/information-travaux-rue-de-la-haute-gourniere/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7596
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7596 to https://www.cvannantes.org/2022/12/09/joneliere-cup-10-12-2022/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7587
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7587 to https://www.cvannantes.org/2022/11/30/championnat-de-ligue-des-pays-de-la-loire-angers-28-11-2023/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7565
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/?p=7565 to https://www.cvannantes.org/2022/10/27/challenge-windsurf-cvan-pont-mahe-2022/
+16:39:05	Warning: 	Moved Permanently for https://www.cvannantes.org/category/club/page/1/
+16:39:05	Warning: 	File has moved from https://www.cvannantes.org/category/club/page/1/ to https://www.cvannantes.org/category/club/
+16:39:06	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7801
+16:39:06	Warning: 	File has moved from https://www.cvannantes.org/?p=7801 to https://www.cvannantes.org/2023/05/26/championnat-de-france-handivalide-hansa-a-sciez-au-lac-leman/
+16:39:06	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7505
+16:39:06	Warning: 	File has moved from https://www.cvannantes.org/?p=7505 to https://www.cvannantes.org/2022/06/22/coupe-regionale-des-pays-de-la-loire-ilca-46-et-7-11-au-12-juin-2022/
+16:39:06	Warning: 	Moved Permanently for https://www.cvannantes.org/category/competition/page/1/
+16:39:06	Warning: 	File has moved from https://www.cvannantes.org/category/competition/page/1/ to https://www.cvannantes.org/category/competition/
+16:39:06	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7245
+16:39:06	Warning: 	File has moved from https://www.cvannantes.org/?p=7245 to https://www.cvannantes.org/2022/03/10/reprise-des-activites-club-samedi-12-mars-2022/
+16:39:06	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6459
+16:39:06	Warning: 	File has moved from https://www.cvannantes.org/?p=6459 to https://www.cvannantes.org/2021/11/08/regate-departementale-open-deriveur-cvan-du-21-11-2021/
+16:39:07	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5751
+16:39:07	Warning: 	File has moved from https://www.cvannantes.org/?p=5751 to https://www.cvannantes.org/2020/07/17/inscription-cvan-2019-2020/
+16:39:09	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5866
+16:39:09	Warning: 	File has moved from https://www.cvannantes.org/?p=5866 to https://www.cvannantes.org/2020/03/13/info-cvan-annulation-des-activites-du-club/
+16:39:09	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7495
+16:39:09	Warning: 	File has moved from https://www.cvannantes.org/?p=7495 to https://www.cvannantes.org/2022/06/20/regate-premiers-bords-samedi-25-juin-de-9h-a-16h/
+16:39:10	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7482
+16:39:10	Warning: 	File has moved from https://www.cvannantes.org/?p=7482 to https://www.cvannantes.org/2022/06/19/coupe-regionale-ligue/
+16:39:10	Warning: 	Moved Permanently for https://www.cvannantes.org/category/competition/regate/page/1/
+16:39:10	Warning: 	File has moved from https://www.cvannantes.org/category/competition/regate/page/1/ to https://www.cvannantes.org/category/competition/regate/
+16:39:10	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7733
+16:39:10	Warning: 	File has moved from https://www.cvannantes.org/?p=7733 to https://www.cvannantes.org/2023/04/13/hansa-north-cup/
+16:39:11	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7679
+16:39:11	Warning: 	File has moved from https://www.cvannantes.org/?p=7679 to https://www.cvannantes.org/2023/02/12/les-stages-vacances-de-printemps-sont-en-ligne/
+16:39:11	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7674
+16:39:11	Warning: 	File has moved from https://www.cvannantes.org/?p=7674 to https://www.cvannantes.org/2023/02/05/hansa-cup-28-01-2023/
+16:39:12	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7574
+16:39:12	Warning: 	File has moved from https://www.cvannantes.org/?p=7574 to https://www.cvannantes.org/2022/11/05/bapteme-de-limoca-de-sebastien-marsset/
+16:39:12	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7550
+16:39:12	Warning: 	File has moved from https://www.cvannantes.org/?p=7550 to https://www.cvannantes.org/2022/10/01/stage-de-windsurf-perfectionnement-vacances-de-la-toussaint/
+16:39:12	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7540
+16:39:12	Warning: 	File has moved from https://www.cvannantes.org/?p=7540 to https://www.cvannantes.org/2022/09/24/ouverture-des-stages-toussaint-2022/
+16:39:12	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7523
+16:39:12	Warning: 	File has moved from https://www.cvannantes.org/?p=7523 to https://www.cvannantes.org/2022/07/29/point-infos-activites-stages-vacances-ete-2022-maintien-des-stages-sur-vioreau/
+16:39:12	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7492
+16:39:12	Warning: 	File has moved from https://www.cvannantes.org/?p=7492 to https://www.cvannantes.org/2022/06/19/reinscription-2022-2023-adherents/
+16:39:13	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7468
+16:39:13	Warning: 	File has moved from https://www.cvannantes.org/?p=7468 to https://www.cvannantes.org/2022/05/27/les-stages-vacances-pour-toute-la-famille-label-efv-cvan-lete-aux-portes-de-nantes/
+16:39:13	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7466
+16:39:13	Warning: 	File has moved from https://www.cvannantes.org/?p=7466 to https://www.cvannantes.org/2022/05/27/la-pratique-libre-le-retour-des-happys-hours-du-cvan-le-jeudi-soir/
+16:39:13	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7460
+16:39:13	Warning: 	File has moved from https://www.cvannantes.org/?p=7460 to https://www.cvannantes.org/2022/05/12/un-don-de-2600-euros-a-lissue-des-6-heures-de-lerdre-ruban-rose-cvan-ico/
+16:39:14	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7452
+16:39:14	Warning: 	File has moved from https://www.cvannantes.org/?p=7452 to https://www.cvannantes.org/2022/04/27/championnat-de-ligue-handi-le-23-avril/
+16:39:14	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7436
+16:39:14	Warning: 	File has moved from https://www.cvannantes.org/?p=7436 to https://www.cvannantes.org/2022/04/23/regate-interligue-hansa-north-cup-c-e-v-de-berck-du-16-04-22-au-18-04-22/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7373
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7373 to https://www.cvannantes.org/2022/04/07/crit-departemental-44-flottes-collectives-hansa-resultats-30-03-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7353
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7353 to https://www.cvannantes.org/2022/04/07/championnat-de-ligue-pays-de-la-loire-deriveurs-ilca-marcon-03-04-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7306
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7306 to https://www.cvannantes.org/2022/03/17/reprise-des-entrainement-hansa-le-16-03-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7277
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7277 to https://www.cvannantes.org/2022/03/16/championnat-de-ligue-des-pays-de-la-loire-deriveurs-ilca-pornic-13-03-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7255
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7255 to https://www.cvannantes.org/2022/03/15/inscriptions-6-heures-de-lerdre-ruban-rose-dimanche-10-avril-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7226
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7226 to https://www.cvannantes.org/2022/03/08/reprise-de-lecole-de-sport-ilca-printemps-2022/
+16:39:15	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7206
+16:39:15	Warning: 	File has moved from https://www.cvannantes.org/?p=7206 to https://www.cvannantes.org/2022/03/06/stages-voiles-vacances-de-paques-avril-2022/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=7188
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=7188 to https://www.cvannantes.org/2022/02/27/sortie-char-a-voile-fromentine-du-19-02-2022/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6860
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6860 to https://www.cvannantes.org/2022/01/27/hansa-cup-29-02-2022/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6847
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6847 to https://www.cvannantes.org/2022/01/27/stage-niveau-4-ffvoile-du-printemps-2022/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6694
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6694 to https://www.cvannantes.org/2022/01/11/save-the-date-vide-grenier-du-cvan-premiere-edition-27-fevrier/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6662
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6662 to https://www.cvannantes.org/2021/12/20/hivernage-2021/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6553
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6553 to https://www.cvannantes.org/2021/12/02/pornic-championnat-de-ligue-pays-de-la-loire-deriveurs-28-11-2021/
+16:39:16	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6537
+16:39:16	Warning: 	File has moved from https://www.cvannantes.org/?p=6537 to https://www.cvannantes.org/2021/11/25/joneliere-cup-du-11-12-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6488
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6488 to https://www.cvannantes.org/2021/11/18/la-fleche-championnat-de-ligue-pays-de-la-loire-deriveurs-14-11-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6481
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6481 to https://www.cvannantes.org/2021/11/11/finale-regionale-ilca-sno-nantes-du-06-au-07-11-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6365
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6365 to https://www.cvannantes.org/2021/11/04/championnat-de-france-hansa-handi-valide-a-royan-du-30-10-au-1-11-21/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6353
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6353 to https://www.cvannantes.org/2021/11/01/kidibul-cup-optimist-du-26-10-2021-au-30-10-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6294
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6294 to https://www.cvannantes.org/2021/10/25/le-44-prend-de-la-hauteur-cvan-base-nautique-de-foil-decouverte-samedi-30-octobre-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6289
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6289 to https://www.cvannantes.org/2021/10/21/programme-sport-bien-etre-sur-leau-octobre-rose-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6281
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6281 to https://www.cvannantes.org/2021/10/15/les-6-heures-de-lerdre-octobre-rose-2021-samedi-23-et-dimanche-24-octobre-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6269
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6269 to https://www.cvannantes.org/2021/10/11/regate-departementale-open-deriveurs-snos-10-10-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6264
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6264 to https://www.cvannantes.org/2021/10/07/programme-6-heures-de-lerdre-octobre-rose-2021/
+16:39:17	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6257
+16:39:17	Warning: 	File has moved from https://www.cvannantes.org/?p=6257 to https://www.cvannantes.org/2021/09/27/6-heures-de-lerdre-2021-inscriptions/
+16:39:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6242
+16:39:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6242 to https://www.cvannantes.org/2021/09/04/la-reprise-des-cycles-dautomne/
+16:39:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6233
+16:39:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6233 to https://www.cvannantes.org/2021/07/14/pilates-paddle-atelier-bien-etre-sur-leau/
+16:39:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6222
+16:39:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6222 to https://www.cvannantes.org/2021/06/18/formation-cqp-iv-moniteur-voile-ffv-2021/
+16:39:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6205
+16:39:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6205 to https://www.cvannantes.org/2021/06/10/inscription-cvan-2021-2022/
+16:39:18	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6187
+16:39:18	Warning: 	File has moved from https://www.cvannantes.org/?p=6187 to https://www.cvannantes.org/2021/05/14/ouverture-du-club-vendredi-14-et-samedi-15-mai-2021/
+16:39:19	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6146
+16:39:19	Warning: 	File has moved from https://www.cvannantes.org/?p=6146 to https://www.cvannantes.org/2021/05/02/le-1er-mai-au-cvan/
+16:39:19	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6130
+16:39:19	Warning: 	File has moved from https://www.cvannantes.org/?p=6130 to https://www.cvannantes.org/2021/04/30/pilates-paddle-au-cvan/
+16:39:19	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6114
+16:39:19	Warning: 	File has moved from https://www.cvannantes.org/?p=6114 to https://www.cvannantes.org/2021/04/09/ecole-de-voile-maintenue-consignes/
+16:39:19	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6111
+16:39:19	Warning: 	File has moved from https://www.cvannantes.org/?p=6111 to https://www.cvannantes.org/2021/04/09/inscriptions-stages-vacances-dete-efv-bientot-en-ligne-au-cvan/
+16:39:20	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6109
+16:39:20	Warning: 	File has moved from https://www.cvannantes.org/?p=6109 to https://www.cvannantes.org/2021/04/09/bientot-au-cvan-cycle-paddle-pilate-forme-bien-etre-sur-leau/
+16:39:20	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6107
+16:39:20	Warning: 	File has moved from https://www.cvannantes.org/?p=6107 to https://www.cvannantes.org/2021/04/09/lequipe-du-cvan-maintiendra-les-seances-cycle-voile-du-samedi-10-17-et-24-avril/
+16:39:20	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6102
+16:39:20	Warning: 	File has moved from https://www.cvannantes.org/?p=6102 to https://www.cvannantes.org/2021/04/09/6102/
+16:39:20	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6099
+16:39:20	Warning: 	File has moved from https://www.cvannantes.org/?p=6099 to https://www.cvannantes.org/2021/04/07/stages-efv-vacances-de-printemps-2021/
+16:39:21	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6096
+16:39:21	Warning: 	File has moved from https://www.cvannantes.org/?p=6096 to https://www.cvannantes.org/2021/04/03/activites-club-cvan-avril-2021/
+16:39:21	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6094
+16:39:21	Warning: 	File has moved from https://www.cvannantes.org/?p=6094 to https://www.cvannantes.org/2021/03/30/point-location-cvan-en-attente-de-re-ouverture/
+16:39:22	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6092
+16:39:22	Warning: 	File has moved from https://www.cvannantes.org/?p=6092 to https://www.cvannantes.org/2021/03/30/stages-vacances-efv-printemps-2021/
+16:39:22	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6063
+16:39:22	Warning: 	File has moved from https://www.cvannantes.org/?p=6063 to https://www.cvannantes.org/2021/01/20/char-a-voile-le-13-fevrier-2021/
+16:39:22	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6053
+16:39:22	Warning: 	File has moved from https://www.cvannantes.org/?p=6053 to https://www.cvannantes.org/2021/01/16/animation-match-race-en-hansa-2-3/
+16:39:23	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6050
+16:39:23	Warning: 	File has moved from https://www.cvannantes.org/?p=6050 to https://www.cvannantes.org/2021/01/14/1er-championnat-regional-e-sailing-inscrivez-vous/
+16:39:24	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6043
+16:39:24	Warning: 	File has moved from https://www.cvannantes.org/?p=6043 to https://www.cvannantes.org/2020/12/18/les-hivernales-du-cvan/
+16:39:24	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6040
+16:39:24	Warning: 	File has moved from https://www.cvannantes.org/?p=6040 to https://www.cvannantes.org/2020/12/03/reprise-des-activites-cvan-samedi-5-decembre-2020/
+16:39:25	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6030
+16:39:25	Warning: 	File has moved from https://www.cvannantes.org/?p=6030 to https://www.cvannantes.org/2020/11/20/video-mon-handicap-met-les-voiles/
+16:39:26	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6028
+16:39:26	Warning: 	File has moved from https://www.cvannantes.org/?p=6028 to https://www.cvannantes.org/2020/11/18/mon-handicap-met-les-voiles/
+16:39:27	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6025
+16:39:27	Warning: 	File has moved from https://www.cvannantes.org/?p=6025 to https://www.cvannantes.org/2020/11/18/la-voile-pour-tous-cest-possible-en-partenarait-avec-des-pieds-et-des-mains/
+16:39:27	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6017
+16:39:27	Warning: 	File has moved from https://www.cvannantes.org/?p=6017 to https://www.cvannantes.org/2020/11/17/criterium-departemental-a-la-maison-dimanche-29-novembre-2020-14h30-a-16h30/
+16:39:30	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6014
+16:39:30	Warning: 	File has moved from https://www.cvannantes.org/?p=6014 to https://www.cvannantes.org/2020/10/29/fermeture-temporaire-des-activites-du-cvan-covid-19/
+16:39:32	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5783
+16:39:32	Warning: 	File has moved from https://www.cvannantes.org/?p=5783 to https://www.cvannantes.org/2020/10/20/inscriptions-stage-niveau-4-ffvoile/
+16:39:33	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6007
+16:39:33	Warning: 	File has moved from https://www.cvannantes.org/?p=6007 to https://www.cvannantes.org/2020/10/09/reglement-sportif-des-6-heures-de-lerdre-2020/
+16:39:34	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=6004
+16:39:34	Warning: 	File has moved from https://www.cvannantes.org/?p=6004 to https://www.cvannantes.org/2020/10/09/stage-niveau-4-ffv-acces-a-la-formation-cqp-initiateur-voile/
+16:39:34	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5998
+16:39:34	Warning: 	File has moved from https://www.cvannantes.org/?p=5998 to https://www.cvannantes.org/2020/09/22/un-dernier-bord-au-portant-pour-raymond-le-merdy-ex-secretaire-general-de-la-section-voile-amitie-nature/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5974
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5974 to https://www.cvannantes.org/2020/07/30/le-mois-daout-au-cvan-enviedembruns/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5970
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5970 to https://www.cvannantes.org/2020/07/23/salut-a-toi-nicolas-nobilet-et-bon-vent/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5924
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5924 to https://www.cvannantes.org/2020/06/29/appeler-le-cvan-au-06-43-82-32-65-ligne-fixe-en-panne/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5916
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5916 to https://www.cvannantes.org/2020/06/13/nouveaute-sport-sante-atelier-nautique-bien-etre-sur-leau-ouvert-a-tous/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5906
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5906 to https://www.cvannantes.org/2020/06/13/sweat-cvan-au-couleur-du-club/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5902
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5902 to https://www.cvannantes.org/2020/06/05/formation-cvan-cqp-initiateur-voile-efv/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5897
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5897 to https://www.cvannantes.org/2020/05/29/informations-cvan-reprise-des-activites-a-partir-du-mardi-2-juin-2020/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5884
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5884 to https://www.cvannantes.org/2020/05/13/challenge-diabarzh-diavaez/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5877
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5877 to https://www.cvannantes.org/2020/05/12/infos-cvan-post-confinement-covid-19/
+16:39:43	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5873
+16:39:43	Warning: 	File has moved from https://www.cvannantes.org/?p=5873 to https://www.cvannantes.org/2020/04/21/en-attendant-la-suite-et-de-se-retrouver-sur-leau-ou-ailleurs/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5869
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5869 to https://www.cvannantes.org/2020/04/03/restezalamaison-le-cvan-garde-le-cap/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5862
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5862 to https://www.cvannantes.org/2020/03/12/regate-de-ligue-windsurf-cvan-dimanche-15-mars-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5854
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5854 to https://www.cvannantes.org/2020/03/05/reprise-des-activites-cycles-ecole-de-voile-printemps-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5851
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5851 to https://www.cvannantes.org/2020/03/05/les-hansas-303-bateau-handivoile-inchavirable-en-route-vers-leur-destination-la-joneliere/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5848
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5848 to https://www.cvannantes.org/2020/03/05/regate-de-ligue-windsurf-cvan/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5620
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5620 to https://www.cvannantes.org/2020/03/03/tous-les-stages-de-voiles-accessibles-a-toutes-et-tous-des-les-vacances-davril/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5831
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5831 to https://www.cvannantes.org/2020/02/06/la-voile-sportive-au-cvan-reprise-tonique-des-la-mi-mars-preparez-vos-licences-ffv-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5829
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5829 to https://www.cvannantes.org/2020/02/06/reprise-des-activites-ecole-de-voile-le-samedi-14-et-le-mercredi-18-mars-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5826
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5826 to https://www.cvannantes.org/2020/02/06/assemblee-generale-ordinaire-du-cvan-samedi-7-mars-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5813
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5813 to https://www.cvannantes.org/2020/01/26/hansa-cup-2020/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5296
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=5296 to https://www.cvannantes.org/2019/02/12/hansa-cup-du-9-fevrier-2019/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4899
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=4899 to https://www.cvannantes.org/2018/12/06/sweat-shirt-des-50-ans-du-cvan/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4381
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=4381 to https://www.cvannantes.org/2017/11/02/retour-sur-le-championnat-deurope-hansa-handi-valide-2017/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=4152
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=4152 to https://www.cvannantes.org/2017/06/22/championnat-de-france-handivalide-et-du-national-303/
+16:39:44	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3127
+16:39:44	Warning: 	File has moved from https://www.cvannantes.org/?p=3127 to https://www.cvannantes.org/2016/06/02/une-seance-de-sup-yoga-a-la-joneliere-le-vendredi-24-juin/
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/06/supyoga.jpg (from https://www.cvannantes.org/2016/06/02/une-seance-de-sup-yoga-a-la-joneliere-le-vendredi-24-juin/)
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/06/supyoga-212x300.jpg (from https://www.cvannantes.org/2016/06/02/une-seance-de-sup-yoga-a-la-joneliere-le-vendredi-24-juin/)
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/06/become-sup-yoga-certified.jpg (from https://www.cvannantes.org/2016/06/02/une-seance-de-sup-yoga-a-la-joneliere-le-vendredi-24-juin/)
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/06/become-sup-yoga-certified-300x147.jpg (from https://www.cvannantes.org/2016/06/02/une-seance-de-sup-yoga-a-la-joneliere-le-vendredi-24-juin/)
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=3091
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/?p=3091 to https://www.cvannantes.org/2016/05/26/aucune-navigation-ce-weekend/
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/05/13237838_1087298004674056_7996644032298458544_n-300x119.jpg (from https://www.cvannantes.org/2016/05/26/aucune-navigation-ce-weekend/)
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2016/05/dsc_28379263-300x199.jpg (from https://www.cvannantes.org/2016/05/26/aucune-navigation-ce-weekend/)
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=2693
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/?p=2693 to https://www.cvannantes.org/2015/11/05/rejoignez-nous-sur-facebook/
+16:39:45	Error: 	"Not Found" (404) at link https://www.cvannantes.org/wp-content/uploads/2015/11/SS-FB-300x236.png (from https://www.cvannantes.org/2015/11/05/rejoignez-nous-sur-facebook/)
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/ecole-voile/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/ecole-voile/page/1/ to https://www.cvannantes.org/category/ecole-voile/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/evenements/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/evenements/page/1/ to https://www.cvannantes.org/category/evenements/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/handivoile/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/handivoile/page/1/ to https://www.cvannantes.org/category/handivoile/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/joneliere/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/joneliere/page/1/ to https://www.cvannantes.org/category/joneliere/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/non-classe/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/non-classe/page/1/ to https://www.cvannantes.org/category/non-classe/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/category/stand-up-paddle/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/category/stand-up-paddle/page/1/ to https://www.cvannantes.org/category/stand-up-paddle/
+16:39:45	Warning: 	Moved Permanently for https://www.cvannantes.org/author/franz/page/1/
+16:39:45	Warning: 	File has moved from https://www.cvannantes.org/author/franz/page/1/ to https://www.cvannantes.org/author/franz/
+16:39:52	Warning: 	Moved Permanently for https://www.cvannantes.org/author/florent/page/1/
+16:39:52	Warning: 	File has moved from https://www.cvannantes.org/author/florent/page/1/ to https://www.cvannantes.org/author/florent/
+16:39:52	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5990
+16:39:52	Warning: 	File has moved from https://www.cvannantes.org/?p=5990 to https://www.cvannantes.org/2020/09/16/inscriptions-les-6-heures-de-lerdre-octobre-rose-samedi-17-octobre-2020/
+16:39:52	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=5976
+16:39:52	Warning: 	File has moved from https://www.cvannantes.org/?p=5976 to https://www.cvannantes.org/2020/07/30/le-sport-sante-bien-etre-a-laffiche-au-cvan-paddle-en-douceur-a-partir-de-la-rentree/
+16:39:52	Warning: 	Moved Permanently for https://www.cvannantes.org/?p=327
+16:39:52	Warning: 	File has moved from https://www.cvannantes.org/?p=327 to https://www.cvannantes.org/le-label-ecole-francaise-de-voile/
+16:39:52	Warning: 	Retry after error 500 (Internal Server Error) at link www.ffvoile.net/ffv/web/AdminNews/multimedia/galeries/ffvoile/minis/panneau_AFNOR.jpg (from https://www.cvannantes.org/le-label-ecole-francaise-de-voile/)
+16:39:52	Warning: 	Retry after error 500 () at link www.ffvoile.net/ffv/web/AdminNews/multimedia/galeries/ffvoile/minis/panneau_AFNOR.jpg (from https://www.cvannantes.org/le-label-ecole-francaise-de-voile/)
+16:39:52	Error: 	"" (500) after 2 retries at link www.ffvoile.net/ffv/web/AdminNews/multimedia/galeries/ffvoile/minis/panneau_AFNOR.jpg (from https://www.cvannantes.org/le-label-ecole-francaise-de-voile/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 44 seconds : 1644 links scanned, 1452 files written (326435971 bytes overall) [316104126 bytes received at 189966 bytes/sec], 15053827 bytes transferred using HTTP compression in 263 files, ratio 23%, 10.5 requests per connection
+(13 errors, 354 warnings, 0 messages)
